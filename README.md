@@ -1,51 +1,36 @@
-AdColony SDK 3 Unity Plugin
+AdColony SDK 3 Unityプラグイン
 ============================================
 最終更新日: 2016/12/16  
-Unity Plug-in Version: 3.0.6  
-iOS SDK Version: 3.0.6  
-Android SDK Version: 3.0.6
+Unityプラグイン バージョン: 3.0.6  
+iOS SDK バージョン: 3.0.6  
+Android SDK バージョン: 3.0.6
 
-Download:
+ダウンロード:
 ---------------------------------------
 [https://github.com/AdColony/AdColony-Unity-SDK-3](https://github.com/AdColony/AdColony-Unity-SDK-3)
 
-Contains:
+AdColony Unity入門:
 ---------------------------------------
-* AdColony.unitypackage
-* Unity Sample App
+このUnityプラグインは、当社のAurora SDKをUnity 3Dアプリケーションに含めることができるパッケージに統合し、iOSおよびAndroid Aurora SDKの最新バージョンを含みます。
 
-Getting Started with AdColony Unity:
----------------------------------------
-This Unity plugin integrates our Aurora SDK into a package that can be included in Unity 3D applications, and includes the latest versions of both our iOS and Android Aurora SDKs.
+AdColony 3.0 Unityプラグインは、2.x Unityプラグインと下位互換性がありません。つまり、我々の2.xプラグインからの更新は、ドラッグアンドドロップによる更新ではなく、APIやプロセスの変更を含んでいるということに注意してください。 3.x Unityプラグインを利用するには、完全な再統合が必要です。あなたのアプリで何が必要になるかを知るには、[ドキュメント](https://github.com/glossom-dev/AdColony-Unity-SDK-3-JP-Support/wiki)をご覧ください。
 
-Our Aurora SDK contains huge leaps forward in our capabilities, with benefits for both publishers and advertisers. We would also like to highlight the addition of AdColony Compass™ to our suite of products. AdColony Compass provides publishers with intuitive marketing tools to maximize the value of users throughout your app economy, like creating rewards, achievements, push notifications and in-app messaging.
+AdColony Aurora SDKの詳細については、[iOSのドキュメント](https://github.com/glossom-dev/AdColony-iOS-SDK-3-JP-Support)および [Androidのドキュメント](https://github.com/glossom-dev/AdColony-Android-SDK-3-JP-Support)を参照してください。
 
-Please note that updating from our 2.x Unity Plugin is not a drag and drop update, but rather includes breaking API and process changes. In order to take advantage of the 3.x Unity Plugin, a complete re-integration is necessary. Please review our [documentation](https://github.com/AdColony/AdColony-Unity-SDK-3/wiki) to get a better idea on what changes will be necessary in your app.
-
-AdColony Compass™ provides the tools to increase user engagement through targeted user communications, achievements and rewards. Combined with AdColony’s award-winning Instant-Play™ HD video ads, Compass™ features can also stimulate monetization within apps.Compass™ tools allow publishers to incentivize desired user behaviors and improve KPI's for apps without heavy development work or altering carefully balanced in-app economies.
-
-To start using Compass™ today, follow this [link.](https://clients.adcolony.com/compass/info)
-Questions?  E-mail us at support@adcolony.com
-
-For detailed information about the AdColony Aurora SDK, review our [iOS documentation](https://github.com/AdColony/AdColony-iOS-SDK-3/wiki) and [Android documentation](https://github.com/AdColony/AdColony-Android-SDK-3/wiki).
-
-*All* users should review our [Unity plugin documentation](https://github.com/AdColony/AdColony-Unity-SDK-3/wiki).
-
-3.0.6 Change Log:
+3.0.6 変更履歴:
 ----------------------------------
-* Updated the Unity SDK package to use iOS and Android SDK 3.0.6.
+* iOS SDKとAndroid SDKの3.0.6を利用するようにUnityパッケージを更新しました。
 
-3.0.0 Change Log:
+3.0.0 変更履歴:
 ----------------------------------
-* Initial upload of the Unity plugin and sample app.
+* Unityプラグインとサンプルアプリの初回アップロード
 
-Legal Requirements:
+法的要件:
 ----------------------------------
-By downloading the AdColony SDK, you are granted a limited, non-commercial license to use and review the SDK solely for evaluation purposes.  If you wish to integrate the SDK into any commercial applications, you must register an account with AdColony and accept the terms and conditions on the AdColony website.
+AdColony SDKをダウンロードすることにより、評価の目的でのみ使用および調査するための限定的な非商用ライセンスが付与されます。 SDKを商用アプリケーションに統合する場合は、AdColonyにアカウントを登録し、AdColonyウェブサイトの利用規約に同意する必要があります。
 
-Note that U.S. based companies will need to complete the W-9 form and send it to us before publisher payments can be issued.
+米国に本拠を置く企業は、パブリッシャーに支払いが行われる前に、W-9フォームを記入して我々に送信する必要があります。
 
-
-Contact Us:
+お問い合わせ:
 ----------------------------------
-For more information, please visit AdColony.com. For questions or assistance, please email us at support@adcolony.com.
+ご不明な点やご質問は [video-ad@glossom.co.jp](video-ad@glossom.co.jp) までお問い合わせください。
