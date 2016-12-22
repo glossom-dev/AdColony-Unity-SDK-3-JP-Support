@@ -31,4 +31,4 @@ AdColony SDKをダウンロードすることにより、評価の目的での�
 
 お問い合わせ:
 ----------------------------------
-ご不明な点やご質問は [video-ad@glossom.co.jp](video-ad@glossom.co.jp) までお問い合わせください。
+ご不明な点やご質問は video-ad@glossom.co.jp までお問い合わせください。
